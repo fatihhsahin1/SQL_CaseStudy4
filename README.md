@@ -3,8 +3,6 @@ An in-depth SQL analysis of a neo-banking data model. This project showcases the
 
 ## Neo-Banking Data Analytics Project
 
-This repository contains a comprehensive SQL analysis of a neo-banking data model. The project emphasizes the extraction, processing, and visualization of banking transaction data to derive actionable insights. 
-
 ### Repository Contents
 
 1.  `Data_Bank_Schema.sql`: 
