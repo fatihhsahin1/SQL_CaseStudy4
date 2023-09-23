@@ -2,6 +2,7 @@
 An in-depth SQL analysis of a neo-banking data model. This project showcases the extraction, processing, and visualization of banking transaction data to derive actionable insights
 
 ## Neo-Banking Data Analytics Project
+![4](https://github.com/fatihhsahin1/SQL_CaseStudy4/assets/76142095/7e972bfe-0716-41c4-bf1d-693e87b3f5cb)
 
 ### Repository Contents
 
